@@ -4,7 +4,7 @@ This repository contains my implementation of a program that measures users' typ
 
 ## How to Play
 
-Run this code snippet in the terminal which will launch the program in your browser
+Run this code snippet in your terminal which will launch the program in your browser
 
 ```
 python cats_gui.py
